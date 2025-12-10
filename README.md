@@ -1,118 +1,103 @@
-“Building systems that scale, break, and get rebuilt better.” 🚀
-```yaml
-
-Hey There! 👋
-I'm Chirag Matta — a Backend Engineer, Distributed Systems Enthusiast,
-and someone who genuinely loves understanding how things work under the hood.
-
-My playground includes system design, message queues, schedulers,
-cloud infra, and making broken systems behave.
-I enjoy building impactful backend architecture and keeping up with new tech.
-
-
----
-
-## **🧑‍💻 Chirag Matta**
-
-
-├── Backend Engineering
-│ ├── Java Spring Boot, Kafka, Node.js, FastAPI
-│ ├── Distributed Systems, Microservices, Message Queues
-│ ├── CI/CD, Docker, Kubernetes, Terraform
-│
-├── AI + Automation
-│ ├── CodeGuardian — Multi-agent AI code reviewer
-│ ├── InvoiceSense — Intelligent invoice parser
-│ └── ODF Recon — ODF ↔ Transaction reconciliation engine
-│
-├── Cloud & SRE
-│ ├── Observability (Prometheus, Grafana, ELK)
-│ ├── Autoscaling, Infra-as-Code, Production deployments
-│
-├── Leadership & Life
-│ ├── Football Team Captain ⚽️
-│ ├── Music Society Head 🎸
-│ └── Events & PR Head (organized 15+ events)
-
-
----
-
-## 🚀 **Tech Stack**
-
-> **Backend, Infra, Cloud & Tools I enjoy working with**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,ts,js" />
-<br/>
-<img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,aws,gcp,azure,terraform,linux" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,postman" />
-</div>
-
----
-
-## 🏗 **Highlighted Projects**
-
-### **🚨 CodeGuardian — AI Code Quality & Security Reviewer**
-An **LLM-powered multi-agent code analysis tool** for quality, performance, and security.  
-Uses parallel static analysis → LLM reasoning → actionable recommendations.
-
-### **📄 InvoiceSense — Smart Invoice Parser**
-OCR + rule-engine tool to extract invoices, map metadata & ensure correctness.  
-Handles multi-format bills, fuzzy matching, validations, tax detection.
-
-### **📊 ODF Recon — Financial Reconciliation Engine**
-Reconciles ODF documents with transaction logs.  
-Built for high accuracy, error detection & matching mismatches elegantly.
-
-### **⚙️ Custom Message Queue + Distributed Scheduler**
-Replaced RabbitMQ dependency in a production service  
-with a **custom lightweight MQ** + **Kafka-backed delayed job scheduler**.
-
----
-
-## 📚 **Currently Learning**
-- Advanced SRE practices: SLIs, SLOs, incident response  
-- Optimizing distributed systems at scale  
-- Cloud-native reliability engineering  
-- Deep integration of Python with backend automation  
-
----
-
-## 💡 **Fun Facts**
-- I break systems on purpose to learn how to make them unbreakable 😄  
-- Football captain, guitarist, event organizer — I like being everywhere.  
-- I believe: **“If it scales, it works. If it doesn't, we fix.”**
-
----
-
-## 📊 **GitHub Stats**
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=tokyonight&hide_border=true)
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building.+Breaking.+Becoming+better.;Software+Engineer" alt="Typing SVG" />
+</a>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Matta&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
----
+<br />
 
-## 🧿 **Visitor Count**
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">⚡ Hey There!</h3>
+      <div align="center">
+        I’m a <b>Developer & Data Enthusiast</b>
+      </div>
+      <br />
+      I love building scalable software, automating workflows, and exploring the depths of code.
+      <br /><br />
+      <b>🚀 I enjoy working with:</b>
+      <ul>
+        <li>Software Architecture & Design</li>
+        <li>Full-Stack Development</li>
+        <li>Cloud Computing & DevOps</li>
+        <li>Data Structures & Algorithms</li>
+      </ul>
+      <br />
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <i>"Coding is not just typing; it's thinking."</i>
+    </td>
+    <td width="45%" valign="top">
+      <h3>🧬 Tech DNA</h3>
+      <pre>
+mrinal_bhan
+├── 🧠 Intelligence
+│   ├── 🤖 Machine Learning
+│   └── 🕸️ Neural Networks
+├── 💻 Development
+│   ├── 🐍 Python (Django/FastAPI)
+│   ├── ☕ Java & Spring
+│   └── ⚛️ React & Node.js
+└── 🛠️ Tools
+    ├── 🐳 Docker & K8s
+    └── ☁️ AWS & Azure
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=Chirag-Matta&color=blueviolet)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Matta&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
----
+<br />
 
-If you want:
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-matta-365b0a116/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-✨ A more **minimal**, **flashy**, or **dark-aesthetic** version  
-✨ A **profile GIF**, headers, neon quote banner  
-✨ Or a **GPRM-optimized version**
+<br />
 
-Just tell me — I’ll customize it perfectly for you.
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/TECH%20STACK-8A2BE2?style=for-the-badge&logo=gitea&logoColor=white" alt="Tech Stack Header" />
+      <br /><br />
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,html,css" />
+        <br />
+        <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,django,flask" />
+        <br />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux" />
+        <br />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,vscode,idea" />
+      </div>
+    </td>
+    <td width="50%" valign="center">
+       <div align="center">
+         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" alt="Coding GIF" width="100%" />
+       </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag-Matta&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
