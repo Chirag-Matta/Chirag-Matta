@@ -1,7 +1,7 @@
 <div align="center">
   
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building.+Breaking.+Evolving.;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=AA86BF&center=true&vCenter=true&width=435&lines=Building.+Breaking.+Evolving.;Software+Engineer" alt="Typing SVG" />
 </a>
 
 
@@ -14,7 +14,7 @@
     <td width="55%" valign="top">
       <h3 align="center">⚡ Hey There!</h3>
       <div align="center">
-        I’m a <b>Developer & Data Enthusiast</b>
+        I’m an <b>Aspiring Developer & Tech Enthusiast</b>
       </div>
       <br />
       I love building scalable software, automating workflows, and exploring the depths of code.
@@ -22,7 +22,7 @@
       <b>🚀 I enjoy working with:</b>
       <ul>
         <li>Software Architecture & Design</li>
-        <li>Full-Stack Development</li>
+        <li>Backend Development</li>
         <li>Cloud Computing & DevOps</li>
         <li>Data Structures & Algorithms</li>
       </ul>
@@ -32,39 +32,47 @@
     <td width="45%" valign="top">
       <h3>🧬 Tech DNA</h3>
       <pre>
-mrinal_bhan
-├── 🧠 Intelligence
-│   ├── 🤖 Machine Learning
-│   └── 🕸️ Neural Networks
+Chirag_Matta
 ├── 💻 Development
-│   ├── 🐍 Python (Django/FastAPI)
-│   ├── ☕ Java & Spring
-│   └── ⚛️ React & Node.js
-└── 🛠️ Tools
-    ├── 🐳 Docker & K8s
-    └── ☁️ AWS & Azure
-      </pre>
-    </td>
+│   ├── 🐍 Python (FastAPI / ML / NLP)
+│   ├── ☕ Java (Spring Boot / Microservices)
+│   ├── ⚡ Node.js (Kafka / Distributed Systems)
+│   └── ⚛️ React (Frontend Essentials)
+│
+├── 🛠️ Systems & DevOps
+│   ├── 🐳 Docker | Kubernetes | Helm
+│   ├── 🔧 CI/CD (GitHub Actions / ArgoCD)
+│   ├── ⚙️ Terraform (Infra as Code)
+│   └── 📦 MinIO | Kafka | YugabyteDB
+│
+└── ☁️ Cloud
+    └── ☁️ Azure
+    
   </tr>
 </table>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Matta&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<!-- <div align="center">
+  <a href="https://github.com/Chirag-Matta">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=radical&hide_border=true" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/Chirag-Matta">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Matta&layout=compact&theme=radical&hide_border=true" alt="languages graph" />
+  </a>
+</div> -->
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chirag-matta-365b0a116/">
+  </a> -->
+  <a href="www.linkedin.com/in/chirag-matta-a2aa30232">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mattachirag980@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -87,10 +95,11 @@ mrinal_bhan
       </div>
     </td>
     <td width="50%" valign="center">
-       <div align="center">
-         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" alt="Coding GIF" width="100%" />
-       </div>
-    </td>
+  <div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY0Y2g5MDFseHFubjdjajA1YWx1a2FrZG8weHBuYzh4OWZubWc3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" 
+         alt="Coding GIF" width="100%" />
+  </div>
+</td>
   </tr>
 </table>
 
