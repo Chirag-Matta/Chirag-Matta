@@ -61,6 +61,14 @@ Chirag_Matta
 
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap.svg" />
+  <img alt="Chirag-Matta's full contribution history, including private/org contributions" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap.svg" />
+</picture>
+
+<br />
+
 <!-- <div align="center">
   <a href="https://github.com/Chirag-Matta">
     <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=radical&hide_border=true" alt="stats graph" />
