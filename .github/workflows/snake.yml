@@ -16,27 +16,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate snake svg/gif
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Chirag-Matta
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=#a855f7&color_dots=#0d1b2a,#1b4965,#2a9d8f,#4ecdc4,#7ee8fa&color_background=#0d1117
-
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: fix dist ownership
-        run: sudo chown -R "$(id -u):$(id -g)" dist
-
-      - name: generate full multi-year heatmap
+      - name: generate full-history snake
         env:
           CONTRIB_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
           GH_LOGIN: Chirag-Matta
-        run: node scripts/generate-full-heatmap.mjs
+        run: node scripts/generate-full-snake.mjs
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4

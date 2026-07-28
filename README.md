@@ -55,16 +55,8 @@ Chirag_Matta
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.gif" />
-  <img alt="Chirag-Matta's contribution snake" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.gif" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap.svg" />
-  <img alt="Chirag-Matta's full contribution history, including private/org contributions" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/full-heatmap.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.svg" />
+  <img alt="Chirag-Matta's full-history contribution snake" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.svg" />
 </picture>
 
 <br />
