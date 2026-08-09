@@ -59,8 +59,6 @@ Chirag_Matta
   <img alt="Chirag-Matta's full-history contribution snake" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.svg" />
 </picture> -->
 
-<br />
-
 <!-- <div align="center">
   <a href="https://github.com/Chirag-Matta">
     <img src="https://github-readme-stats.vercel.app/api?username=Chirag-Matta&show_icons=true&theme=radical&hide_border=true" alt="stats graph" />
