@@ -53,11 +53,11 @@ Chirag_Matta
 
 <br />
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.svg" />
   <img alt="Chirag-Matta's full-history contribution snake" src="https://raw.githubusercontent.com/Chirag-Matta/Chirag-Matta/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <br />
 
